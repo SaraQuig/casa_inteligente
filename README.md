@@ -1,5 +1,7 @@
 Proyecto: Casa Inteligente (Fullstack)
+
 Este repositorio contiene el desarrollo completo de un proyecto de casa inteligente, incluyendo frontend y backend, realizado de forma individual.
+
 Tecnologías usadas:
 HTML
 CSS
