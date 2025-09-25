@@ -8,6 +8,9 @@ CSS
 JavaScript
 TypeScript
 Descripción
+
 Desarrollo de la interfaz web interactiva y responsiva.
+
 Implementación de la lógica y control de dispositivos inteligentes.
+
 Proyecto realizado de forma autónoma, gestionando tanto el frontend como el backend.
