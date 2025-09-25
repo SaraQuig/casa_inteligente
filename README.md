@@ -7,6 +7,7 @@ HTML
 CSS
 JavaScript
 TypeScript
+
 Descripción
 
 Desarrollo de la interfaz web interactiva y responsiva.
